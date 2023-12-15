@@ -1,2 +1,2 @@
 # Coney
-Hello World
+Hello
